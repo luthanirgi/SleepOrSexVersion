@@ -1,9 +1,9 @@
 {
-  "version": "2.3.4",
+  "version": "2.3.5",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.3.4",
-      "changelog": "Fix Auth, Chance pregnant on viagra & Lang in qbcore - target"
+      "version": "2.3.5",
+      "changelog": "Better Thread Request Animation"
   }
 }
