@@ -1,9 +1,9 @@
 {
-  "version": "2.3.7",
+  "version": "2.3.8",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.3.7",
-      "changelog": "Fix Refuse Spamming Notif"
+      "version": "2.3.8",
+      "changelog": "Fix Bed Position"
   }
 }
