@@ -1,9 +1,9 @@
 {
-  "version": "2.3.6",
+  "version": "2.3.7",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.3.6",
-      "changelog": "Relogic Pregnant, Fix nil value"
+      "version": "2.3.7",
+      "changelog": "Fix Refuse Spamming Notif"
   }
 }
