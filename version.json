@@ -1,9 +1,9 @@
 {
-  "version": "2.3.9",
+  "version": "2.4.0",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.3.9",
-      "changelog": "Fix Sleep Animation, Customable Position Ped in Bed, Reduce Stress"
+      "version": "2.4.0",
+      "changelog": "Fix Sex Animation giving nil value"
   }
 }
