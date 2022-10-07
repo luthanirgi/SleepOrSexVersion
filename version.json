@@ -1,9 +1,9 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.4.0",
-      "changelog": "Fix Sex Animation giving nil value"
+      "version": "2.4.1",
+      "changelog": "Fix Pregnant Issue, Sex Position"
   }
 }
