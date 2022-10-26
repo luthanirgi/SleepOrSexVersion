@@ -1,9 +1,9 @@
 {
-  "version": "2.4.4",
+  "version": "2.4.5",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.4.4",
-      "changelog": "Add More Option to Press Key, Fix Not Pregnant"
+      "version": "2.4.5",
+      "changelog": "Fix nil value 000000002f7a49e6"
   }
 }
