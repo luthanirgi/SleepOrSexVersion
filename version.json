@@ -1,9 +1,9 @@
 {
-  "version": "2.4.8",
+  "version": "2.5.0",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.4.8",
-      "changelog": "Fix argument at index was null hunger & thirst"
+      "version": "2.5.0",
+      "changelog": "Fix argument at index was null remove pregnant part, rewrite logic animation stumble"
   }
 }
