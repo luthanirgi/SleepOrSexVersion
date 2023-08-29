@@ -1,9 +1,9 @@
 {
-  "version": "2.5.0",
+  "version": "3.3.0",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "2.5.0",
+      "version": "3.3.0",
       "changelog": "Fix argument at index was null remove pregnant part, rewrite logic animation stumble"
   }
 }
