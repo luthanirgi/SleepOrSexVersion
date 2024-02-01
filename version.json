@@ -1,9 +1,9 @@
 {
-  "version": "3.3.2",
+  "version": "3.6.0",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "3.3.2",
-      "changelog": "Fix something important"
+      "version": "3.6.0",
+      "changelog": "Change log on the discord"
   }
 }
