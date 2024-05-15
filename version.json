@@ -1,9 +1,9 @@
 {
-  "version": "3.6.2",
+  "version": "3.6.3",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "3.6.2",
+      "version": "3.6.3",
       "changelog": "Fix typo for sql qb, optimize event for esx"
   }
 }
