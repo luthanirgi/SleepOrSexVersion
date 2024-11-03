@@ -1,9 +1,9 @@
 {
-  "version": "4.0.1",
+  "version": "4.0.2",
   "changelog": "https://github.com/Steviol/SleepOrSexVersion/releases/latest",
 
   "fivem": {
-      "version": "4.0.1",
+      "version": "4.0.2",
       "changelog": "full changelog on the discord"
   }
 }
